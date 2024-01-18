@@ -1,10 +1,20 @@
 {
-  "produtos": [
+  "series": [
     {
-      "id": 1,
-      "nome": "sapatoBacana",
-      "preco": "typicode",
-      "imagem": "sapado.jpg"
+      "id": "1",
+      "Nome": "Breaking Bad",
+      "NumeroDeTemporadas": "5",
+      "Elenco": "Bryan Cranston, Aaron Paul, Anna Gunn, Dean Norris, RJ Mitte, Bob Odenkirk, Betsy Brandt",
+      "Produtora": "High Bridge Entertainment Gran Via Productions Sony Pictures Television",
+      "AnoDeLançamento": "2008"
+    },
+    {
+      "id": "2",
+      "Nome": "Dna do Crime",
+      "NumeroDeTemporadas": "1",
+      "Elenco": "Maeve Jinkings, Thomas Aquino, Rômulo Braga, Pedro Caetano, Marcelo di Marcio, Miguel Nader, Diogo Brito",
+      "Produtora": "Paranoïd",
+      "AnoDeLançamento": "2023"
     }
   ]
 }
